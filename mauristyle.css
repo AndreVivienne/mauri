@@ -1,0 +1,19 @@
+body {font-family: Avanta-Garde, Century-Gothic, Lucida-Sans  }
+a{background-color:transparent;color:#D9AB38;}a:active,a:hover{outline-width:0}
+
+.toinenlinkki {color: blue}
+
+.mauri {color:#ff00d3; background-color: rgb(255, 215, 245);}
+.mauritrans{color:#ff00d3; background-color: transparent;}
+.maurialt {color:#00e1ff; background-color: rgba(0, 0, 0, 0.89);}
+.maurialttrans {color:#00e1ff; background-color: transparent;}
+.mauri-h {color:#ff00d3; background-color: rgb(255, 215, 245); font: size 100px;}
+.mauri-text {color:#D9AB38; background-color: transparent;}
+.mauri-bg {background-color: #ce6dbe;}
+
+
+
+
+.corp-text {font-family: courier ;}
+.corp-main {background-color:#768692;color: #E40046;}
+.corp-alt {background-color:#a7a7a7;color: #160007;}
